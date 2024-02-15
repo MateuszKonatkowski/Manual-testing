@@ -29,8 +29,8 @@ Date 14.02.2024
 
 The environments and equipment on which the tests took place
 :
-- Chrome Version 111.0.5563.111 (64-bit)
-- Windows 10 Home/65
+- Windows10/64-Opera 120.0.6099.268-Wifi
+
 
 Application areas and types of tests performed:
 
