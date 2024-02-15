@@ -1,6 +1,12 @@
 
 # Manual testing
 
+Manual testing project using Jira, with a primary focus on thorough
+testing of a website. The main goal of the project was to perform
+manual testing, including the creation of  Test Cases, and
+Test Report documenting identified bugs. This project showcased
+proficiency in manual testing methodologies and effective use of Jira
+for comprehensive test management
 ### Test case examples
 
 
