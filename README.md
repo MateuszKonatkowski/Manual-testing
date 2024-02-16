@@ -13,16 +13,17 @@ for comprehensive test management
 
 ![App Screenshot](https://i.imgur.com/ic5KQij.png)
 # 
-![App Screenshot](https://i.imgur.com/E0UIHxw.png)
+![App Screenshot](https://i.imgur.com/LfOapeK.png)
 # 
-![App Screenshot](https://i.imgur.com/oCHR84j.png)
+![App Screenshot](https://i.imgur.com/kOPGrBJ.png)
 # 
-![App Screenshot](https://i.imgur.com/DM5Uq3l.png)
+![App Screenshot](https://i.imgur.com/vwayDrH.png)
 # 
 ![App Screenshot](https://i.imgur.com/e7hXwAs.png)
 ## Bug report 
-![App Screenshot](https://i.imgur.com/60TJVUb.png)
+![App Screenshot](https://imgur.com/gszAyRr.png)
 
+![App Screenshot](https://i.imgur.com/J9vw6kP.png)
 ## Test report
 #### Guru99 Bank application test report
 Date 14.02.2024
@@ -50,6 +51,10 @@ Summary of test completion criteria:
 I managed to complete all the planned tests
 During testing, there were no difficulties or problems with the test environment
 The time of entire project was carried out for 1 days
+
+## Author
+
+Mateusz Konatkowski
 
 
 
