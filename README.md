@@ -48,11 +48,11 @@ To do:
 
 Summary of test completion criteria:
 
-I managed to complete all the planned tests.
+- I managed to complete all the planned tests.
 
-During testing, there were no difficulties or problems with the test environment.
+- During testing, there were no difficulties or problems with the test environment.
 
-The time of entire project was carried out for 1 days.
+- The time of entire project was carried out for 1 days.
 
 
 ## Author
